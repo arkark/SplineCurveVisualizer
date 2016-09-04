@@ -1,3 +1,3 @@
 # A spline curve visualizer
 
-![demo](/src/demo.gif)
+![demo](./gif/demo.gif)
